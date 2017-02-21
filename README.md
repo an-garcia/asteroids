@@ -1,7 +1,7 @@
 # HTML5 Asteroids
 
 
-![alt tag](https://github.com/an-garcia/asteroids/blob/master/sample.png)
+![Scheme](WormGame.png)
 
 This game was created Doug McInnes. His code can be found
 [here](https://github.com/dmcinnes/HTML5-Asteroids), and you can play his
