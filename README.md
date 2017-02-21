@@ -1,6 +1,5 @@
 # HTML5 Asteroids
 
-![alt tag](https://github.com/an-garcia/asteroids/blob/master/sample.png)
 ![Scheme](sample.png)
 
 This game was created Doug McInnes. His code can be found
